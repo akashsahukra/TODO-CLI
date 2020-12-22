@@ -24,6 +24,7 @@ $ todo report           # Statistics
 You can add the folder path to system variables to use the command anywhere in the computer. 
 
 ## How to add path :-
+_Copy the path of the folder_
 1. Search system environment in Search bar.
 2. Select the Edit system environment variables.
 3. In the Advanced tab select Environment Variables.
