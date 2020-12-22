@@ -36,3 +36,5 @@ You can add the folder path to system variables to use the command anywhere in t
 * If you are working on a project folder.You have some tasks to be done.
 * You can open your Terminal or Command Prompt in your respective folder and create a todo list.
 * You can use this for multiple projects.As It creates a new todo list for every project folder. If it already exists it uses that todo list.
+
+> Feel free to give any suggestions.
