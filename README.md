@@ -19,6 +19,7 @@ $ todo report           # Statistics
 ## Dependencies:-
 > You need to have Python installed in your system.
 - Install from here :- https://www.python.org/downloads/
+- Run __pip install colorama__ in your _CMD_ or _Terminal_ for the first time and you are good to go.
 
 You can add the folder path to system variables to use the command anywhere in the computer. 
 
