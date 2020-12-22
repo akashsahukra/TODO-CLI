@@ -2,7 +2,7 @@
 A colorful TODO command line interface.
 
 ## Usage :-
-$ todo add "todo item"  # Add a new todo
+ $ todo add "todo item"  # Add a new todo
 
 $ todo ls               # Show remaining todos
 
@@ -15,6 +15,10 @@ $ todo done NUMBER      # Complete a todo
 $ todo help             # Show usage
 
 $ todo report           # Statistics
+
+## Dependencies:-
+> You need to have Python installed in your system.
+- Install from here :- https://www.python.org/downloads/
 
 You can add the folder path to system variables to use the command anywhere in the computer. 
 
