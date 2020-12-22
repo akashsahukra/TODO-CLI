@@ -1,3 +1,3 @@
 @echo off
 
-python todo.py %1 %2
+python %~dp0\todo.py %1 %2
