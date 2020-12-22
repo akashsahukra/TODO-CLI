@@ -30,7 +30,8 @@ _Copy the path of the folder_
 3. In the Advanced tab select Environment Variables.
 4. In the system variables double tap on the Path.
 5. Click New and paste the path of the folder.
-6. You are ready to go and use yout TODO from anywhere in your PC.
+6. Click OK and Ok again.
+7. You are ready to go and use your TODO from anywhere in your PC.
 
 
 ## How to start:-
